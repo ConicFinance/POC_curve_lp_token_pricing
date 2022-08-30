@@ -1,4 +1,4 @@
 hypothesis==6.54.3
 pytest==7.1.2
 web3==5.30.0
-
+black==22.3.0
